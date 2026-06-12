@@ -9,7 +9,7 @@ The hard part of an AI feature was never the prompt. It's the product around it:
 - ⚡ 9 years shipping full-stack, exclusively in startups & scale-ups
 - 🧰 Next.js · TypeScript · Node · FastAPI · Python · OpenAI/Anthropic APIs · agents · RAG
 
-**📦 Featured: [AI Invoice Parser](https://github.com/DylanMerigaud/invoice-parser-demo)** — upload a PDF invoice, an AI agent extracts structured data and flags anomalies. Built in an afternoon. [▶️ Live demo](https://invoice-parser-demo-rho.vercel.app/)
+**📦 Featured: [AI Invoice Parser](https://github.com/DylanMerigaud/invoice-parser-demo)** — upload a PDF invoice, an AI agent extracts structured data and flags anomalies. Built in an afternoon. [▶️ Live demo](https://ai-invoice-parser-rho.vercel.app/)
 
 ---
 
