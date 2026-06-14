@@ -9,7 +9,11 @@ The hard part of an AI feature was never the prompt. It's the product around it:
 - ⚡ 9 years shipping full-stack, exclusively in startups & scale-ups
 - 🧰 Next.js · TypeScript · Node · FastAPI · Python · OpenAI/Anthropic APIs · agents · RAG
 
-**📦 Featured: [AI Invoice Parser](https://github.com/DylanMerigaud/invoice-parser-demo)** — upload a PDF invoice, an AI agent extracts structured data and flags anomalies. Built in an afternoon. [▶️ Live demo](https://ai-invoice-parser-rho.vercel.app/)
+### 📦 Featured work
+
+**[ledgerloop](https://github.com/DylanMerigaud/ledgerloop)** — four cooperating AI agents run an invoice through the procure-to-pay loop (intake → 2/3-way matching → approval routing → reconciliation), streaming the live execution trace and **pausing for a real human approval** when a price or quantity mismatch is caught. The orchestration layer done properly: typed agent boundaries, conditional routing, graceful failure, a stateless streaming demo. Built with [Mastra](https://mastra.ai). [▶️ Live demo](https://ledgerloop-eta.vercel.app/)
+
+**[AI Invoice Parser](https://github.com/DylanMerigaud/ai-invoice-parser)** — drop a PDF invoice, an AI agent returns a schema-validated structured object and flags anomalies. A focused take on production-grade AI: strict typing, runtime validation at every boundary, and an eval harness across 9 messy real-world formats. [▶️ Live demo](https://ai-invoice-parser-rho.vercel.app/)
 
 ---
 
