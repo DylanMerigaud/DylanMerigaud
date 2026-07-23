@@ -21,4 +21,4 @@ The hard part of an AI feature was never the prompt. It's the product around it:
 
 🌍 Remote from Mexico City · Available for contract work · Building AI into a fintech product? Let's talk.
 
-📫 dylanmerigaud.pro@gmail.com · [LinkedIn](https://www.linkedin.com/in/dylanmerigaud)
+📫 dylan@merigaud.com · [LinkedIn](https://www.linkedin.com/in/dylanmerigaud)
