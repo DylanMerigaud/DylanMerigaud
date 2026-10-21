@@ -11,7 +11,7 @@ The hard part of an AI feature was never the prompt. It's the product around it:
 
 ### 📦 Featured work
 
-**[trimwrit](https://github.com/DylanMerigaud/trimwrit):** an open source Claude Code plugin where every harness rule enters with a test and leaves once the test passes without it. Its gates are Claude Code hooks that refuse the action instead of a sentence in CLAUDE.md the model may forget. In my own harness: 341 corrections logged over eight weeks, 42 promoted into rules, 2,823 refusals by 20 doors in three weeks, and 21 rules measured with and without, 13 of them earning their place. [In production](https://github.com/DylanMerigaud/trimwrit#in-production)
+**[trimwrit](https://github.com/DylanMerigaud/trimwrit):** an open source Claude Code plugin where every harness rule enters with a test and leaves once the test passes without it. Its gates are Claude Code hooks: instead of a line in CLAUDE.md the model may forget, they refuse the action. In my own harness: 341 corrections logged over eight weeks, 42 promoted into rules, 2,823 refusals by 20 doors in three weeks, and 21 cases measured with and without their rule file, 13 scoring higher with it. [In production](https://github.com/DylanMerigaud/trimwrit#in-production)
 
 **[react-flow-auto-layout](https://github.com/DylanMerigaud/react-flow-auto-layout):** a published npm package that auto-lays-out React Flow graphs on dagre, fixing what a plain dagre pass gets wrong on variable-size nodes: true bounding-box centering and straightened linear edges. Strict TypeScript, dual ESM/CJS, published with provenance. [▶️ Live demo](https://react-flow-auto-layout.merigaud.com/) · [npm](https://www.npmjs.com/package/react-flow-auto-layout)
 
